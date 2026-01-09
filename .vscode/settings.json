@@ -1,0 +1,19 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "workbench.editors.gettingStartedInput": true,
+        "imagePreview.previewEditor": true,
+        "vscode.audioPreview": true,
+        "mainThreadWebview-markdown.preview": true,
+        "workbench.input.interactive": true,
+        "jsProfileVisualizer.heapsnapshot.table": true,
+        "vscode.videoPreview": true,
+        "workbench.editor.chatSession": true
+    },
+    "workbench.settings.editor": "ui",
+    "workbench.editor.defaultBinaryEditor": "repl",
+    "workbench.editor.limit.perEditorGroup": true,
+    "window.density.editorTabHeight": "compact",
+    "workbench.editor.splitSizing": "distribute",
+    "workbench.editor.tabSizing": "shrink"
+}
